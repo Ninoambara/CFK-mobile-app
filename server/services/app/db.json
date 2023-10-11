@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "name": "Wings Bucket",
+      "description": "paket keluarga ni boss",
+      "price": "99000",
+      "imgUrl": "https://files.kfcku.com/uploads/media/food-menu/spesial/thumbnail/kfc-web_wingsbucket_t.png",
+      "UserMongoId": "6507f1ac1d9db28bdc38178d",
+      "categoryId": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "Alacarte",
+      "createdAt": "2023-09-05T15:26:48.873Z",
+      "updatedAt": "2023-09-05T15:26:48.873Z"
+    },
+    {
+      "name": "Dian",
+      "createdAt": "2023-09-06T13:29:16.479Z",
+      "updatedAt": "2023-09-06T13:29:16.479Z"
+    }
+  ],
+  "ingredients": [
+    {
+      "itemId": 1,
+      "name": "Ayam"
+    }
+  ],
+  "users": [
+    {
+      "email": "user2@example.com",
+      "password": "password2",
+      "id": 2
+    },
+    {
+      "email": "user2@example.com",
+      "password": "password2",
+      "id": 3
+    }
+  ]
+}
